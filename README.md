@@ -2,7 +2,7 @@
 
 <a href="https://ibb.co/kHfpw7M"><img src="https://i.ibb.co/DVyNvJL/detect.jpg" alt="detect" border="0"></a>
 
-Using Machine Learning Decision Tree algorithm for vehicle and object detection. 
+#Using Machine Learning Decision Tree algorithm for vehicle and object detection. 
 if u want use Webcam : Open
   Egitilmismodel.py class and change cap = cv2.VideoCapture('video.mp4') to cap = cv2.VideoCapture(0).
   
